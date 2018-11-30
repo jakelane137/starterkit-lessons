@@ -72,6 +72,13 @@ Before posting your question try:
 5. Asking a skilled friend
 6. Or reading the code
 
+{% callout "Use the mailing lists" %}
+CERN has a large number of mailiing lists, to find them use the e-groups site:
+https://e-groups.cern.ch/. 
+
+For example, you may find problems when trying to submit jobs to the grid; a good place to ask a question solving it would be the "lhcb-distributed-analysis" e-group at https://groups.cern.ch/group/lhcb-distributed-analysis/default.aspx. 
+{ %endcallout }
+
 When asking your question, mention which of these steps you have tried. It
 will help demonstrate that you are not lazy and put in some effort. If you
 learned something from trying this, mention it!

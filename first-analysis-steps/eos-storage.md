@@ -45,8 +45,9 @@ When the job is completed, no output is dowloaded but some interesting
 information are provided by typing `j.outputfiles[0]`:
 
 ```python
+user = 'another'
 DiracFile(namePattern='DVntuple.root',
-          lfn='/lhcb/user/a/another/2018_11/146255/146255492/DVntuple.root',
+          lfn='/lhcb/user/'+user[0]+'/'+user+'/2018_11/146255/146255492/DVntuple.root',
           localDir='/afs/cern.ch/user/a/another/gangadir/workspace/another/LocalXML/129/output')
 ```
 Apart from the `namePattern` which was set during the configuration of the job,
