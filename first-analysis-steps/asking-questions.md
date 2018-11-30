@@ -1,9 +1,10 @@
 # Asking good questions
 
-{% objectives "Learning Objectives" %}
+------------------------
+### Learning Objectives
 * How to ask a good question
 * Where to ask questions
-{% endobjectives %} 
+------------------------- 
 
 Eventually you will get stuck when trying to do something.
 This lesson is about how to get help with getting unstuck.
